@@ -28,32 +28,10 @@
     },
     "my-pool-ids": {
         "0": "5e1c0f2519b2ea005de5c418568a3323d7a2dddb2dc1e6a39d88cd02",
-        "1": "5e1c0f2519b2ea005de5c418568a3323d7a2dddb2dc1e6a39d88cd02"
+        "1": ""
     },
-    "when-satured-then-recommend": {
-        "0": "5e1c0f2519b2ea005de5c418568a3323d7a2dddb2dc1e6a39d88cd02",
-        "1": "5e1c0f2519b2ea005de5c418568a3323d7a2dddb2dc1e6a39d88cd02"
-    },
+
     "telegram-admin-handle": {
         "0": "StupidCotton"
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1 eu",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "1": {
-                "name": "relay 2 eu",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
-                "name": "block producer",
-                "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
-            }
-        }
     }
 }
