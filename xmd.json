@@ -9,7 +9,7 @@
             "facebook_handle": "",
             "youtube_handle": "K9xIhW6NtUNLk9Qe4NCePw",
             "twitch_handle": "",
-            "discord_handle": "",
+            "discord_handle": "364371868251062272",
             "github_handle": ""
         },
         "company": {
@@ -17,8 +17,8 @@
             "addr": "",
             "city": "Rotterdam",
             "country": "NL",
-            "company_id": "666",
-            "vat_id": "999"
+            "company_id": "83774793",
+            "vat_id": ""
         },
         "about": {
             "me": "Stupid human being trying to make the world a better place.",
@@ -27,7 +27,25 @@
         }
     },
     "my-pool-ids": {
-        "0": "5e1c0f2519b2ea005de5c418568a3323d7a2dddb2dc1e6a39d88cd02",
-        "1": ""
+        "0": "5e1c0f2519b2ea005de5c418568a3323d7a2dddb2dc1e6a39d88cd02"
+        },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "STUPD R1",
+                "type": "relay",
+                "key": "40ed18f4adc5a949ee7da4ec51d4ca81"
+              },
+            "1": {
+                "name": "STUPD R2",
+                "type": "relay",
+                "key": "a2cd63e60fea99689ea26e377f98f923"
+              },
+            "2": {
+                "name": "STUPD Producer",
+                "type": "bp",
+                "key": "c8f67e11163d34a9266d23150ecd7844"
+              }
         }
+    }
 }
