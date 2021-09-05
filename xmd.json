@@ -32,17 +32,17 @@
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "STUPD R1",
+                "name": "STUPID RELAY 1",
                 "type": "relay",
                 "key": "40ed18f4adc5a949ee7da4ec51d4ca81"
               },
             "1": {
-                "name": "STUPD R2",
+                "name": "STUPID RELAY 2",
                 "type": "relay",
                 "key": "a2cd63e60fea99689ea26e377f98f923"
               },
             "2": {
-                "name": "STUPD Producer",
+                "name": "STUPID PRODUCER",
                 "type": "bp",
                 "key": "c8f67e11163d34a9266d23150ecd7844"
               }
